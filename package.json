@@ -1,0 +1,9 @@
+{
+  "name": "solana-jobs",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": "git@github.com:cchampou/solana-jobs.git",
+  "author": "cchampou <clement@champouillon.com>",
+  "license": "MIT",
+  "private": true
+}
